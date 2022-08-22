@@ -1,0 +1,52 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Aug 19, 2022, 3:14:32 AM
+    Author     : HUNGLM
+*/
+
+table.ta{
+    border-radius: 10px;
+    width: 95%;
+    height: auto;
+    margin: auto ;
+    
+        
+    
+    
+}
+table, th, td{
+    border:1px solid black;
+}
+table{
+    border-collapse:collapse;
+
+}
+
+table.tb{
+    border-radius: 10px;
+    width: 95%;
+    height: auto;
+    margin: auto ;
+      border:1px solid black;
+}
+h1{
+    text-align: center;
+    color:  rgb(202,0,102);
+   
+}
+div {
+    color: rgb(255,140,0);
+      opacity: 1.2;
+
+}
+tr{
+    text-align: center;
+}
+body{
+    
+  background-color: rgb(238,228,211);
+  opacity: 1.2
+    }
