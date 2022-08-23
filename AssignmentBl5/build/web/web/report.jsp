@@ -199,11 +199,12 @@
                    
                                         
         </table>
+         <br>
         
-         <h2  style="color:  red">Note: </h2>
-      <div >S: Morning Shift</div>
-      <div>C: Afternoon Shift</div>
-      <div>Full: FullTime</div>
+         <h2  style="color:  red ;padding-left: 3%" >Note: </h2>
+         <div style="padding-left: 4%" >S: Morning Shift</div>
+      <div style="padding-left: 4%">C: Afternoon Shift</div>
+      <div style="padding-left: 4%">Full: FullTime</div>
          <h1>Salary</h1>
       <table class="tb" border="1px" >
           <tr style="background: rgb(255,255,204)">
